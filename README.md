@@ -1,1 +1,2 @@
-# fantastic-octo-guacamole
+# 用于搭建图床的public仓库
+想必不会有人看吧
